@@ -1,2 +1,27 @@
-# POO_restaurante
-💻 Projeto em Python utilizando Programação Orientada a Objetos (POO). Inclui exemplos práticos de uso de classes, atributos, encapsulamento, propriedades, métodos estáticos e construtores para organizar e estruturar o código de forma eficiente.
+# 🍽️ Sistema de Gerenciamento de Restaurantes - Python
+
+Este é um projeto simples desenvolvido em Python que simula um sistema de gerenciamento de restaurantes via terminal. O foco principal é a prática de lógica de programação, uso de listas, dicionários e funções, sem a utilização de classes ou POO.
+
+---
+
+## 🚀 Funcionalidades
+
+- 📋 Cadastrar novos restaurantes
+- 📄 Listar todos os restaurantes cadastrados
+- 🔁 Alternar o estado de um restaurante (Ativado/Desativado)
+- ❌ Encerrar o programa com opção de sair
+
+---
+
+## 💻 Tecnologias utilizadas
+
+- [Python 3](https://www.python.org/) (sem bibliotecas externas)
+
+---
+
+## 📦 Como executar o projeto
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
