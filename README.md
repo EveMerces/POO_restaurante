@@ -1,6 +1,6 @@
 # 🍽️ Sistema de Gerenciamento de Restaurantes - Python
 
-Este é um projeto simples desenvolvido em Python que simula um sistema de gerenciamento de restaurantes via terminal. O foco principal é a prática de lógica de programação, uso de listas, dicionários e funções, sem a utilização de classes ou POO.
+Este é um projeto simples desenvolvido em Python que simula um sistema de gerenciamento de restaurantes via terminal. O foco principal é desenvolvimento back-end de um aplicativo com leituras sequencias até chegar em Orientação em Objetos.
 
 ---
 
